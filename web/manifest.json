@@ -1,6 +1,6 @@
 {
-    "name": "remindersplus",
-    "short_name": "remindersplus",
+    "name": "Reminders+",
+    "short_name": "Reminders+",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,3 +1,3 @@
-# remindersplus
+# Reminders+
 
 A new Flutter project.

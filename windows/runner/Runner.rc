@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "remindersplus" "\0"
+            VALUE "CompanyName", "com.calebh101" "\0"
+            VALUE "FileDescription", "Reminders+" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "remindersplus" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "remindersplus.exe" "\0"
-            VALUE "ProductName", "remindersplus" "\0"
+            VALUE "InternalName", "RemindersPlus" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2024 com.calebh101. All rights reserved." "\0"
+            VALUE "OriginalFilename", "RemindersPlus.exe" "\0"
+            VALUE "ProductName", "RemindersPlus" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
