@@ -11,8 +11,20 @@ class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Text(
-        "Hello, world!"
+      appBar: AppBar(
+        title: Text("Reminders+"),
+        centerTitle: true,
+      ),
+      body: Column(
+        children: [
+          SingleChildScrollView(
+            child: Column(
+              children: [
+                Text("Hello world"),
+              ],
+            ),
+          ),
+        ],
       ),
     );
   }
